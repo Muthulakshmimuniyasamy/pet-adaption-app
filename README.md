@@ -52,4 +52,3 @@ Include a user dashboard for managing adoption requests.
 Contributing
 Feel free to fork this repository and submit pull requests. Contributions are always welcome!
 
-
