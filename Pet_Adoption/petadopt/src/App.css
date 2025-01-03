@@ -1,0 +1,12 @@
+.dogs img{
+    height: 200px;
+    width:165px;
+    border: 1px solid #f7a918;
+    margin: 10px;
+    border-radius: 10px;
+    padding:10px;
+     
+}
+.dogbtns button{
+    border-radius: 10px;
+}
